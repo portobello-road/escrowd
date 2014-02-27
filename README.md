@@ -1,4 +1,4 @@
-# escrowD
+# escrowd
 
 A portobello road client which runs as a daemon for escrow agents.
 
